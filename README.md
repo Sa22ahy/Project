@@ -28,7 +28,7 @@ This project leverages machine learning to predict Chronic Kidney Disease (CKD) 
    ```
 3. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook
+   jupyter notebook CodeFile.ipynb
    ```
 4. Run the notebook cells sequentially to reproduce the analysis and results.
 
